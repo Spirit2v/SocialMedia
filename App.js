@@ -3,6 +3,7 @@ import { View, Text,StatusBar} from 'react-native'
 import OnboardingScreen from './screens/OnboardingScreen'
 import Routes1 from './navigation/Routes1'
 export default function App() {
+  // added a comment 
   return (
     <>
     <StatusBar
